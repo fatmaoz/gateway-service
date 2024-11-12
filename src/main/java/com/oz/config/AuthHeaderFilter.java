@@ -1,4 +1,4 @@
-package com.cydeo.config;
+package com.oz.config;
 
 import org.springframework.cloud.gateway.filter.GatewayFilter;
 import org.springframework.cloud.gateway.filter.GatewayFilterChain;

@@ -1,4 +1,4 @@
-package com.cydeo.config;
+package com.oz.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
